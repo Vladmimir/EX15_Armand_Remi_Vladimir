@@ -48,6 +48,7 @@ print(result)
 ```
 
 Si le SIREN existe, il retourne les informations correspondantes, sinon un message d'erreur est renvoyé. Les accents ne sont pas affichés malgré que l'encodage UTF-8 soit forcé (cela vient de l'import des données dans la BDD)
+![image](https://github.com/user-attachments/assets/19d92d96-53ae-47fb-8fca-8f2d146450e0)
 
 ## Auteur
 Vladimir
