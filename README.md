@@ -26,12 +26,16 @@ Swagger
 La documentation est disponible à l'adresse http://localhost:5000/swagger pour tester l'API.
 
 
+<<<<<<< HEAD
 
 # Diagramme de Séquence
 
 diagramme illustre la communication entre un client, un serveur RPC et un serveur REST pour récupérer des données depuis une base de données. Le client envoie une requête (par SIREN) et reçoit la réponse sous différents formats : XML pour RPC et JSON pour REST.
 
 ![Diagramme de Séquence](https://www.planttext.com?text=VL4nRiCm3Dm5w0z4fcR81p84WUCCwP0MzWjOcmWCA59AKGRoexZVqCSgsQupDG940kBTyKZjlI1Bk1gji177S30TMT4gXKxkiAg9UmeCrUTX1UXpVXOBz0GjGUciZGFv4L4MMcarwS1cbnbREDhUTGG6WUaxn1-X_0xOKmE6u8QCr_WG9gXFrV6iLQx-aQiuDE4M7wdw2biMMpXP8MPt6LjzpVRQsTxIRkQLnRC5pGOJYkFWWn4KlqXFqsIOkC1smYsoR-_rntcTfqOZapXOPq7OXJuEMa4w_oc5T9FbjEEyrrQhVOhZX_m2)
+=======
+![image](https://github.com/user-attachments/assets/de665a99-d8d6-44f7-9f2d-196ff4b04fdd)
+>>>>>>> d4db3905a224edef05556ecf3df2c3547b4e0cfd
 
 
 
