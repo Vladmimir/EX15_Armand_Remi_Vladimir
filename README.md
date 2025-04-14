@@ -71,6 +71,7 @@ Modifier
 python rpc_service.py
 Le service est maintenant disponible sur http://localhost:8000.
 2. API REST avec Swagger
+api_rest.py
 
 J'ai aussi développé une API REST qui permet d'obtenir les mêmes données que le service RPC, mais au format JSON.
 
@@ -80,6 +81,10 @@ Le serveur renvoie les données sous forme de JSON.
 Swagger
 La documentation est disponible à l'adresse http://localhost:5000/swagger pour tester l'API.
 
+#API REST Rémi
+api-rest-avec-plusieurs-parametre.py
+app2.py
+app3.py
 
 # Diagramme de Séquence
 
